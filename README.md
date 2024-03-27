@@ -19,4 +19,4 @@ This paper is now accepted by GECCO-24 as a full-length paper.
 
 ## Note
 
-The MTO-Platform (MToP) has incorporated the relevant algorithm at *"[MTO/Algorithms/Multi-objective Multi-task/Multi-population/MTEA-D-TSD/MTEA-D-TSD.m](https://github.com/intLyc/MTO-Platform/blob/master/MTO/Algorithms/Multi-objective Multi-task/Multi-population/MTEA-D-TSD/MTEA-D-TSD.m)"* and provides convenient utility functions. We highly recommend using it for code running. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
+The MTO-Platform (MToP) has incorporated the relevant algorithm at *"[MTO/Algorithms/Multi-objective Multi-task/Multi-population/MTEA-D-TSD/MTEA-D-TSD.m](https://github.com/intLyc/MTO-Platform/blob/master/MTO/Algorithms/Multi-objective%20Multi-task/Multi-population/MTEA-D-TSD/MTEA_D_TSD.m)"* and provides convenient utility functions. We highly recommend using it for code running. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
