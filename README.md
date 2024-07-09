@@ -10,10 +10,17 @@ This paper is now accepted by GECCO-24 as a full-length paper.
 @InProceedings{Li2024MTEA-D-TSD,
   title     = {Transfer Search Directions Among Decomposed Subtasks for Evolutionary Multitasking in Multiobjective Optimization},
   author    = {Li, Yanchi and Gong, Wenyin and Gu, Qiong},
-  booktitle = {Genetic and Evolutionary Computation Conference},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
   year      = {2024},
+  address   = {New York, NY, USA},
+  pages     = {557–565},
+  publisher = {Association for Computing Machinery},
   series    = {GECCO '24},
   doi       = {10.1145/3638529.3653989},
+  isbn      = {9798400704949},
+  location  = {Melbourne, VIC, Australia},
+  numpages  = {9},
+  url       = {https://doi.org/10.1145/3638529.3653989},
 }
 ```
 
